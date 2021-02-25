@@ -6,3 +6,5 @@ All code is easy to adjust.
 This is for Public Domain.
 
 Teach kids spread knowledge.
+
+Play here <a href="http://babystonks.westnileod.j.pl"><h2>Baby Stonks</h2></a>
