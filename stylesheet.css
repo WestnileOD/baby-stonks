@@ -1,0 +1,41 @@
+body {
+	background-color:darkgray;
+}
+table {
+	width: 100%;
+	border: 12px solid purple;
+	text-align: center;
+	padding: 5px;
+}
+th {
+  height: 50px;
+  font-size:14px;
+  width:50px;
+  font-size:19px;
+}
+td {
+	color:huntergreen;
+	height:30px;
+}
+div {
+	background-color:white;
+	box-shadow:  2px 6px purple;
+}
+img {
+	width:20%;
+	height:100%;
+}
+button {
+	border-radius:12px;
+	font-size:28px;
+	padding: 8px;
+	box-shadow: 4px 6px purple;
+}
+.start {
+	
+}
+footer {
+	background-color:darkblue;
+	text-align:center;
+	text-shadow: 1px 1px lightblue;
+}
