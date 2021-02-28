@@ -7,4 +7,4 @@ This is for Public Domain.
 
 Teach kids spread knowledge.
 
-Play here <a href="http://babystonks.westnileod.j.pl"><h2>Baby Stonks</h2></a>
+Play here <a href="http://babystonks.westnileod.j.pl" target="_blank"><h2>Baby Stonks</h2></a>
